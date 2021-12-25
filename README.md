@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Web Designing
 - 🌱 I’m currently learning ... PHP
 - 💞️ I’m looking to collaborate on ...Web Developer
-- 📫 How to reach me ...
+
 
 <!---
 nidhi57np/nidhi57np is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
